@@ -8,10 +8,7 @@
 
 
 fn main() {
-<<<<<<< HEAD
-    
-=======
->>>>>>> d49e8c0bc243c0b6a2b71770c0c427111c51e158
-    let x = 5;
+
+    let x :i32 = 5;
     println!("x has the value {}", x);
 }
